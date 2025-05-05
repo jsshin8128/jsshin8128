@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Jinsu Shin!</h1>
 
 <p align="center">
-  <em>"좋은 소프트웨어란 무엇인가"를 고민하며, 의미 있는 경험을 전달하는 개발자를 지향합니다."</em>
+
 </p>
 
 ---
