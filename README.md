@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jinsu Shin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Web+Backend+Developer+with+Cloud+Engineering;INFJ+Developer+%7C+Value-driven+Growth;Creating+Meaningful+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Web+Backend+Developer+with+Cloud+Engineering;Building+Stable+and+Practical+Services;Growing+Through+Consistent+Practice" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,31 +14,30 @@
 
 ---
 
-## 🪴 About Me
+## 🚀 About Me
 
-- 🌿 **INFJ 개발자로서 사용자의 삶에 긍정적 변화를 주는 소프트웨어를 만들고자 합니다.**
-- ☁️ AWS 기반 인프라 설계·운영 및 Spring Boot 기반 백엔드 API 개발을 통해 **안정적인 서비스 제공**을 목표로 합니다.
-- 🌱 작은 성장과 꾸준한 기록을 소중히 생각합니다.
+- 웹 백엔드 개발과 클라우드 환경에서의 안정적인 서비스 운영에 관심이 많습니다.
+- AWS 기반 인프라 설계·운영, Spring Boot 기반 API 개발을 학습하며 직접 구축해보고 있습니다.
+- 꾸준히 성장하며 사용자가 신뢰할 수 있는 서비스를 만드는 개발자가 되고자 노력합니다.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧩 Backend
+### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### 🗄️ Database
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -46,7 +45,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-### 📡 Messaging & Monitoring
+### Messaging & Monitoring
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -69,18 +68,18 @@
 
 ## ✉️ Contact
 
-- 📧 Email: [jsshin8128@gmail.com](mailto:jsshin8128@gmail.com)
-- 📝 Velog: [블로그 링크](블로그 링크)
+- 📧 [jsshin8128@gmail.com](mailto:jsshin8128@gmail.com)
+- 📝 [Velog](블로그 링크)
 
 ---
 
 ## 🌱 Currently Learning
 
-- ☁️ AWS 기반 클라우드 서비스 및 IaC 설계
-- 🛡️ Spring Security, OAuth2, JWT
-- 🧪 TDD 및 Clean Architecture
-- 🧩 마이크로서비스 및 분산 시스템
-- 📚 네트워크, 운영체제, DB 성능 최적화
+- AWS 기반 클라우드 서비스 및 IaC 설계
+- Spring Security, OAuth2, JWT 인증/인가
+- TDD 및 Clean Architecture
+- 마이크로서비스 및 분산 시스템
+- 네트워크, 운영체제, DB 성능 최적화
 
 ---
 
@@ -92,5 +91,4 @@
 
 ---
 
-> 🌿 “기술로 사람들에게 작은 변화를 주며, 의미 있는 경험을 전달하는 개발자가 되겠습니다.”
-
+> “사용자가 신뢰할 수 있는 서비스를 꾸준히 만들어가는 개발자가 되겠습니다.”
