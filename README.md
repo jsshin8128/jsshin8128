@@ -24,8 +24,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 🧩 Backend
 ![Java](https://img.shields.io/badge/Java%20(Spring%20Boot)-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20(FastAPI)-3776AB?style=for-the-badge&logo=python&logoColor=white)
