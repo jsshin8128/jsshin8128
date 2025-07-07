@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jinsu Shin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Web+Backend+Developer+%7C+Cloud+Engineering;Building+Stable+%26+Scalable+Services;Growing+Through+Practice" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Web+Backend+Developer+%7C+Cloud+Engineering;" alt="Typing SVG" />
 </p>
 
 <p align="center">
