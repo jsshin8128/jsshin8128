@@ -24,67 +24,95 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Capsule Render Header -->
+<!-- Header: 화려하지만 단정한 그라데이션 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=150&section=header&text=✨%20Tech%20Stack%20✨&fontSize=38&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
+<!-- 공통 규칙: 아이콘 36px 고정, 가운데 정렬, 아이콘줄 -> 뱃지줄 순서 -->
+
+<!-- Backend -->
 <div align="center">
 
-### 🧩 Backend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" alt="Java"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" alt="Spring"/>  
+### 🧩 Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring"/>
+
 <br/>
-<img src="https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JAVA%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20PDFBox-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-
----
-
-### 🧠 AI / RAG  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" alt="PostgreSQL"/> 
-<img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-oz5wwlrn.png" width="50px" alt="AWS Bedrock"/>  
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL%20+%20pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Templates-8A2BE2?style=for-the-badge"/>
-
----
-
-### 💾 Data & Storage  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="AWS"/>  
-<br/>
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20RDS%20(PostgreSQL)-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-
----
-
-### ☁️ Platform & Ops  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" alt="Docker"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" alt="GitHub"/>  
-<br/>
-<img src="https://img.shields.io/badge/AWS%20ECS%20Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20SSM%20Parameter%20Store-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
----
-
-### 🔁 CI/CD  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50px" alt="GitHub Actions"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" alt="Docker"/>  
-<br/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/APACHE%20PDFBOX-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 
 </div>
 
-<!-- 애니메이션 Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</p>
+---
 
-<!-- Capsule Render Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:6DB33F&height=100&section=footer)
+<!-- AI / RAG -->
+<div align="center">
+
+### 🧠 AI / RAG
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/POSTGRESQL%20+%20PGVECTOR-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20BEDROCK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROMPT%20TEMPLATES-8A2BE2?style=for-the-badge"/>
+
+</div>
+
+---
+
+<!-- Data & Storage -->
+<div align="center">
+
+### 💾 Data & Storage
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AMAZON%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20RDS%20(POSTGRESQL)-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- Platform & Ops -->
+<div align="center">
+
+### ☁️ Platform & Ops
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS%20ECS%20FARGATE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20CLOUDWATCH-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20SSM%20PARAMETER%20STORE-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- CI/CD -->
+<div align="center">
+
+### 🔁 CI/CD
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
+
+<!-- Footer: 헤더와 반대 그라데이션으로 마감 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:6DB33F&height=90&section=footer)
 
 ---
 
