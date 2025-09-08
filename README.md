@@ -8,10 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=160&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontAlignY=40" alt="banner"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsshin8128&color=6DB33F&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -30,7 +26,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🛠️%20Tech%20Stack&fontSize=32&fontAlignY=50&fontColor=ffffff" width="100%"/>
 
 <!-- Tech Stack Table -->
-<table style="margin:0; padding:0;">
+<table>
   <tr>
     <td align="center"><b>🧩 Backend</b></td>
     <td>
@@ -82,30 +78,15 @@
 
 ## 📌 Projects
 
-- **☁️ 클라우드 기반 DevOps 자동 배포 환경 구축**  
-  AWS 기반 인프라, Spring Boot 무중단 배포 자동화, CI/CD 구축, 운영 효율성 향상  
-  [🔗 GitHub Repository](프로젝트 링크)
-
-- **🗓️ REST API 기반 일정 관리 서비스**  
-  Spring Boot + JWT 인증, AWS EC2/RDS 배포, Clean Architecture, DB 최적화  
-  [🔗 GitHub Repository](프로젝트 링크)
-
 ---
 
 ## ✉️ Contact
 
 - 📧 [jsshin8128@gmail.com](mailto:jsshin8128@gmail.com)
-- 📝 [Velog](블로그 링크)
 
 ---
 
 ## 🌱 Currently Learning
-
-- AWS 기반 클라우드 서비스 및 IaC 설계
-- Spring Security, OAuth2, JWT 인증/인가
-- TDD 및 Clean Architecture
-- 마이크로서비스 및 분산 시스템
-- 네트워크, 운영체제, DB 성능 최적화
 
 ---
 
@@ -116,5 +97,3 @@
 </p>
 
 ---
-
-> “사용자가 신뢰할 수 있는 서비스를 꾸준히 만들어가는 개발자가 되겠습니다.”
