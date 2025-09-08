@@ -24,22 +24,48 @@
 
 ## 🛠️ Tech Stack
 
-### 🧩 Backend
-![Java](https://img.shields.io/badge/Java%20(Spring%20Boot)-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20(FastAPI)-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-6DB33F?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><b>🧩 Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache%20PDFBox-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧠 AI / RAG</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL%20+%20pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt%20Templates-8A2BE2?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>💾 Data & Storage</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20RDS%20(PostgreSQL)-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Platform & Ops</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS%20ECS%20Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20SSM%20Parameter%20Store-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔁 CI/CD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
