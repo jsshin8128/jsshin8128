@@ -24,54 +24,68 @@
 
 ## 🛠️ Tech Stack
 
-<!-- 🚀 Capsule Render Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=🛠️%20Tech%20Stack&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+<!-- Capsule Render Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=150&section=header&text=✨%20Tech%20Stack%20✨&fontSize=38&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
-<table>
-  <tr>
-    <td align="center"><b>🧩 Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Apache%20PDFBox-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧠 AI / RAG</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL%20+%20pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prompt%20Templates-8A2BE2?style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>💾 Data & Storage</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS%20RDS%20(PostgreSQL)-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>☁️ Platform & Ops</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS%20ECS%20Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS%20SSM%20Parameter%20Store-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔁 CI/CD</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<!-- 🚀 Capsule Render Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+### 🧩 Backend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" alt="Java"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" alt="Spring"/>  
+<br/>
+<img src="https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20PDFBox-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+
+---
+
+### 🧠 AI / RAG  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" alt="PostgreSQL"/> 
+<img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-oz5wwlrn.png" width="50px" alt="AWS Bedrock"/>  
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL%20+%20pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Templates-8A2BE2?style=for-the-badge"/>
+
+---
+
+### 💾 Data & Storage  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" alt="AWS"/>  
+<br/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20RDS%20(PostgreSQL)-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+
+---
+
+### ☁️ Platform & Ops  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" alt="Docker"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" alt="GitHub"/>  
+<br/>
+<img src="https://img.shields.io/badge/AWS%20ECS%20Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20SSM%20Parameter%20Store-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+---
+
+### 🔁 CI/CD  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50px" alt="GitHub Actions"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" alt="Docker"/>  
+<br/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
+
+<!-- 애니메이션 Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</p>
+
+<!-- Capsule Render Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:6DB33F&height=100&section=footer)
+
 ---
 
 ## 📌 Projects
