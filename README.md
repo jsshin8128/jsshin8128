@@ -23,7 +23,7 @@
 <div align="center" style="margin:0; padding:0;">
 
 <!-- 🚀 Capsule Render Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🛠️%20Tech%20Stack&fontSize=32&fontAlignY=50&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&fontSize=32&fontAlignY=50&fontColor=ffffff" width="100%"/>
 
 <!-- Tech Stack Table -->
 <table>
