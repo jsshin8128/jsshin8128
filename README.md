@@ -24,12 +24,13 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+<div align="center" style="margin:0; padding:0;">
 
 <!-- 🚀 Capsule Render Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=🛠️%20Tech%20Stack&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🛠️%20Tech%20Stack&fontSize=32&fontAlignY=50&fontColor=ffffff" width="100%"/>
 
-<table>
+<!-- Tech Stack Table -->
+<table style="margin:0; padding:0;">
   <tr>
     <td align="center"><b>🧩 Backend</b></td>
     <td>
@@ -73,7 +74,9 @@
 </table>
 
 <!-- 🚀 Capsule Render Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=footer" width="100%"/>
+
+</div>
 
 ---
 
