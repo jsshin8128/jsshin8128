@@ -24,6 +24,9 @@
 
 ## 🛠️ Tech Stack
 
+<!-- 🚀 Capsule Render Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=🛠️%20Tech%20Stack&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+
 <table>
   <tr>
     <td align="center"><b>🧩 Backend</b></td>
@@ -67,6 +70,8 @@
   </tr>
 </table>
 
+<!-- 🚀 Capsule Render Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 ---
 
 ## 📌 Projects
