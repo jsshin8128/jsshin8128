@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=👋%20Hi%20there!%20I'm%20Jinsu%20Shin&fontSize=40&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=👋+Hi+there!+I'm+Jinsu+Shin" alt="Typing SVG" />
 </p>
